@@ -1,0 +1,28 @@
+.player-info{
+    border: 1px solid #80808040;
+    border-radius: 25px;
+    padding: 20px 0px 10px 23px;
+    position: relative;
+}
+.player-info h5{
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.player-info h1{
+    font-weight: bold;
+}
+.player-info p{
+    
+    font-size: 157px;
+    font-weight: bold;
+    margin: -15px 1px -44px -10px;
+    overflow: hidden;
+}
+.player-info img{
+    height: 232px;
+    position: absolute;
+    bottom: -1px;
+    right: 23px;
+    z-index: 111;
+}
